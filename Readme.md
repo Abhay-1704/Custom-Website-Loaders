@@ -1,6 +1,6 @@
 # 🎬 Custom Animated Loaders
 
-This repository contains **custom animated SVG-based loaders** designed for **college websites** or **project splash screens**. These loaders feature rich animations using **CSS**, **SVG**, and are fully **responsive** across mobile and desktop devices.
+This repository contains **custom animated loaders** designed for **college websites** or **project splash screens**. These loaders feature rich animations using **CSS**, **SVG**, and are fully **responsive** across mobile and desktop devices.
 
 ---
 
@@ -8,7 +8,7 @@ This repository contains **custom animated SVG-based loaders** designed for **co
 
 ### 📄 `CCET.html` Features:
 - Animated logo pieces (**Left, Right, Upper**) slide into view.
-- Fade-in "CCET" text using an **SVG path animation**.
+- Fade-in "CCET" text using an **path animation**.
 - **Linear progress bar** appears for mobile view.
 - **Circular progress bar** appears for desktop view.
 - Smooth entrance animations for **header** and **content** after the loader completes.
