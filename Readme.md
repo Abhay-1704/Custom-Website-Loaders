@@ -20,7 +20,7 @@ This repository contains **custom animated loaders** designed for **college webs
 ---
 
 ### 📄 `NCC.html` Features:
-- Centered vertical loader using the **NCC emblem** (SVG).
+- Centered vertical loader using the **NCC emblem**.
 - **Red, Purple, and Blue** sections fade in one-by-one.
 - **Translucent grey overlay** (`rgba(200, 200, 200, 0.7)`) over background image.
 - Clean **flexbox-centered** layout.
