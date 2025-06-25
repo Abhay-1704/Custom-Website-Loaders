@@ -36,4 +36,4 @@ This repository contains **custom animated loaders** designed for **college webs
 1. **Clone or download** this repository:
    ```bash
    git clone https://github.com/your-username/animated-loaders.git
-   cd animated-loaders
+   cd Custom-Website-Loaders
