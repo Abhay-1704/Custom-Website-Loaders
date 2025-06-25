@@ -1,64 +1,39 @@
-🎬 Custom Animated Loaders
-This repository contains custom animated SVG-based loaders designed for college websites or project splash screens. These loaders support rich animations using CSS, SVG, and responsive effects across both mobile and desktop views.
+# 🎬 Custom Animated Loaders
 
-🚀 Demo Preview
-📁 CCET.html
-Features:
+This repository contains **custom animated SVG-based loaders** designed for **college websites** or **project splash screens**. These loaders feature rich animations using **CSS**, **SVG**, and are fully **responsive** across mobile and desktop devices.
 
-Animated logo pieces (Left, Right, Upper) slide into view.
+---
 
-Fade-in CCET text with SVG path.
+## 🚀 Demo Preview
 
-Linear progress bar for mobile view.
+### 📄 `CCET.html` Features:
+- Animated logo pieces (**Left, Right, Upper**) slide into view.
+- Fade-in "CCET" text using an **SVG path animation**.
+- **Linear progress bar** appears for mobile view.
+- **Circular progress bar** appears for desktop view.
+- Smooth entrance animations for **header** and **content** after the loader completes.
+- Fully **responsive** layout.
 
-Circular progress bar for desktop view.
+🖼️ **Background Image**: `Background.jpeg`  
+🟡 **Highlight Color**: `#d3a518`
 
-Header and content animate in after loader completes.
+---
 
-Fully responsive.
+### 📄 `NCC.html` Features:
+- Centered vertical loader using the **NCC emblem** (SVG).
+- **Red, Purple, and Blue** sections fade in one-by-one.
+- **Translucent grey overlay** (`rgba(200, 200, 200, 0.7)`) over background image.
+- Clean **flexbox-centered** layout.
+- Ideal for **splash/loading screens**.
 
-🖼️ Background image: Background.jpeg
-🟡 Highlight color: #d3a518
+🖼️ **Background Image**: `Back.jpg`  
+🎨 **Overlay Color**: Light grey tint
 
-📁 NCC.html
-Features:
+---
 
-Centered vertical loader using NCC emblem SVG.
+## 🧪 How to Use
 
-Red, Purple, and Blue sections fade in.
-
-Overlaid translucent grey background (rgba(200, 200, 200, 0.7)) on top of Back.jpg.
-
-Clean flexbox-centered layout.
-
-Ideal for splash/loading screens.
-
-🖼️ Background image: Back.jpg
-🎨 Translucent overlay: Light grey tint
-
-🧪 How to Use
-Clone or download this repository.
-
-Replace placeholder background images with your own:
-
-Back.jpg (for NCC.html)
-
-Background.jpeg (for Load.html)
-
-Open CCET.html or NCC.html in your browser to preview the loader.
-
-git clone https://github.com/your-username/animated-loaders.git
-cd animated-loaders
-✅ Ensure image files are present in the same directory.
-
-📱 Responsive Design
-Mobile (< 768px): Linear progress bar shows at bottom.
-
-Desktop (≥ 768px): Circular SVG-based progress bar wraps logo.
-
-🎨 Customization Tips
-Modify colors inside <style> tags.
-
-Adjust animation delays and durations in @keyframes and animation CSS rules.
-
-Replace SVG content with your own logo if needed.
+1. **Clone or download** this repository:
+   ```bash
+   git clone https://github.com/your-username/animated-loaders.git
+   cd animated-loaders
