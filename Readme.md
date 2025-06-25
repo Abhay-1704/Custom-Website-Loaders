@@ -26,7 +26,7 @@ This repository contains **custom animated loaders** designed for **college webs
 - Clean **flexbox-centered** layout.
 - Ideal for **splash/loading screens**.
 
-🖼️ **Background Image**: `Back.jpg`  
+🖼️ **Background Image**: `Background.jpg`  
 🎨 **Overlay Color**: Light grey tint
 
 ---
